@@ -1,4 +1,4 @@
-### Orang jelek lagi nyoabain fitur baru github
+### Orang jelek lagi nyobain fitur baru github
 
 <!--
 **imbarwinata/imbarwinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
