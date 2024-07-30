@@ -8,8 +8,8 @@ I'm a passionate Full Stack Developer with a love for creating intuitive and dyn
 🎨 Fun Fact: I don't like free time, if I have free time I will open my laptop and do whatever I can do.
 
 🚀 My Skillset
-Languages & Tools: [List key programming languages, tools, and frameworks]
-Strengths: [List core strengths, like problem-solving, UI/UX design, performance optimization, etc.]
+Languages & Tools: JavaScript, React, Next.js, Vue.js, HTML5, CSS3, Sass, Git, Webpack, GTM, Google Search Console, GCP.
+Strengths: User-Centric Design, Performance Optimization, Responsive Design, Cross-Browser Compatibility.
 
 💬 Let's Connect
 LinkedIn: https://www.linkedin.com/in/imbarwinata
