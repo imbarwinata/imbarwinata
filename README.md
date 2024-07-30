@@ -1,25 +1,17 @@
-<!--
-## 2022?
+👋 Hi there! I'm Imbar Winata
+I'm a passionate Full Stack Developer with a love for creating intuitive and dynamic web applications. I have experience in HTML, CSS, JavaScript, React, and I'm always eager to learn more and take on new challenges.
 
-**imbarwinata/imbarwinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+💻 Currently Working On: Tiket.com as Frontend Engineer using React.JS
+🌱 Learning: Frontend supporting technologies and architecture in DevOps.
+🔭 Looking Forward To: Collaborating on open-source projects and contributing to the developer community.
+🎨 Fun Fact: I don't like free time, if I have free time I will open my laptop and do whatever I can do.
 
-### About Us
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+🚀 My Skillset
+Languages & Tools: [List key programming languages, tools, and frameworks]
+Strengths: [List core strengths, like problem-solving, UI/UX design, performance optimization, etc.]
 
-### Portfolio
-- Porttitor lacus luctus accumsan tortor posuere ac ut.
-- Nisl pretium fusce id velit ut tortor pretium.
-- Amet mattis vulputate enim nulla aliquet porttitor lacus.
-- Mi bibendum neque egestas congue quisque.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's Connect
+LinkedIn: https://www.linkedin.com/in/imbarwinata
+Twitter: https://x.com/imbarwinata
+Email: imbarwinata@gmail.com
