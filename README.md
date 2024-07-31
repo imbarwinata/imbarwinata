@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with a love for creating intuitive and dyn
 
 ### 🌟 Professional Experience (Summary)
 - Frontend Engineer at [Tiket.com](https://www.tiket.com) (2022 - Present)
-- **Web Leader** at [Bareksa.com](https://www.bareksa.com) (2020 - 2022)
+- Web Leader at [Bareksa.com](https://www.bareksa.com) (2020 - 2022)
 - Frontend Developer at [Bareksa.com](https://www.bareksa.com) (2019 - 2020)
 - Full-Stack Mobile Developer at PT. Fifilio Teknologi Indonesia (2018)
 - Web Programmer at PT. Duaz Solution (2017 - 2018)
